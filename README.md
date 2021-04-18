@@ -1,8 +1,15 @@
-# infinite_feed
+# infinite_scrollable_list
 
-A new Flutter project.
+You will learn about infinite scrollable list using infinite_scrollable_pagination(https://pub.dev/packages?q=infinite_scroll_pagination) package.
+
+## Prerequisites 
+You should have some basic idea about widgets, network calls.
 
 ## Getting Started
+
+To run this project you should register to https://newsapi.org/.
+
+After you get your apiKey please paste it in app_config.dart file.
 
 This project is a starting point for a Flutter application.
 
